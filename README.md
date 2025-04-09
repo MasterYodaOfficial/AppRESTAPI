@@ -16,7 +16,7 @@ REST API-сервис для бронирования столиков в рес
 ### 📦 Установка и запуск
 
 ```bash
-git clone https://github.com/your-username/restaurant-booking-api.git
+git clone https://github.com/MasterYodaOfficial/AppRESTAPI.git
 cd AppRESTAPI
 docker compose up -d
 ```
