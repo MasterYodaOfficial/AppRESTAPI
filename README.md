@@ -20,7 +20,7 @@ git clone https://github.com/your-username/restaurant-booking-api.git
 cd AppRESTAPI
 docker compose up -d
 ```
-
+#### 📍 После запуска API будет доступен по адресу: http://localhost:8000/
 ### 🧩 Архитектура проекта
 ```commandline
 app/
